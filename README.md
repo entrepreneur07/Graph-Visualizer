@@ -1,8 +1,5 @@
 # Graph-Visualizer
 
-- Self-driving car simulator by implementing a neural network using JavaScript.
+This is my project to visualise the graph and to implement algorithms on it. We use visjs graph library.
 
-- Implemented the car driving mechanics, environment and simulated some sensors,to detect collisions.
-
-- Implemented the neural network without using inbuilt library and made the car control itself.
-
+To see a demo: https://entrepreneur07.github.io/Graph-Visualizer/
